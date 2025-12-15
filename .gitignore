@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# MaxEnt cache files
+maxent.cache/
+*.mxe
+*.info
+
+# Large data files and temporary files
+재현이\ 실수해서\ 다시한거/
+현재\ 지정\ 모델/
+*.dat
+*.asc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.fix
+
+# Environment variables
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (large HTML files can be excluded if needed)
+# results/*.html
+# results/*.png
+
+# Data files (uncomment if data files are too large)
+# data/*.csv
+# data/*.xlsx
+
